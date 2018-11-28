@@ -1,0 +1,83 @@
+.align
+{
+    display: inline;
+}
+img
+{
+   width: 250px;
+   height: 200px;
+   border: ridge;
+   border-color: brown;
+}
+.flotte 
+{
+    float:right;
+    height: 200px;
+    width: 100px;
+}
+.color
+{
+    color:brown;
+    font-size: 100%;
+}
+.matable
+{
+    position: left; 
+    width: 350%;
+    height: 230%;
+    background-color: #ffffff;
+     position:absolute;
+   top:37%;
+   left:45%;
+   width:1000px; /* A toi de donner la bonne largeur */
+   height:800px; /* A toi de donner la bonne hauteur */
+   margin-left:-150px; /* -largeur/2 */
+   margin-top:-70px; /* -hauteur/2 */
+
+  
+   
+
+
+}
+
+.titre
+{
+    margin-left: 30%;
+    font-family: 'Pacifico', cursive;
+    
+}
+.un
+{ 
+
+  background-image: url("/css/img/bd.jpg");
+  background-repeat: no-repeat;
+  background-size: 30%;
+
+}
+#deux
+{
+    background-image: url("/css/img/bd.jpg");
+    background-repeat: no-repeat;
+    background-size: 90%;
+  
+}
+.mini
+{
+    height: 4%;
+    width: 4%;
+}
+.welcome
+{
+    height: 12%;
+    width: 13%;
+}
+.boom
+{
+    background-image: url('/css/img/boom.png');
+    float:left;
+    margin-right: 30%;
+    height: 900px;
+    width: 200px;
+    display:inline-block;
+    border: ridge;
+}
